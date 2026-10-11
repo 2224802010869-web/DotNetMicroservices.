@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "5w3Gqnh5pxs=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\ChatService.Api\\ChatService.Api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'ChatService.Api': Invalid framework identifier ''.",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\ChatService.Api\\ChatService.Api.csproj",
+      "filePath": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\ChatService.Api\\ChatService.Api.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

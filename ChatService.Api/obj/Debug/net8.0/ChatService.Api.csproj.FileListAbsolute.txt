@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\DotNetMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DotNetMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DotNetMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DotNetMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.csproj.CoreCompileInputs.cache
