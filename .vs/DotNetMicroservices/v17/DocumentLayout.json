@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48D15BF2-21D0-4A59-A871-E3DAA144B898}|ChatService.Api\\ChatService.Api.csproj|c:\\users\\admin\\source\\repos\\dotnetmicroservices\\chatservice.api\\chatservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{48D15BF2-21D0-4A59-A871-E3DAA144B898}|ChatService.Api\\ChatService.Api.csproj|solutionrelative:chatservice.api\\chatservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3463C417-B7BF-4E6F-B5BC-4352C4C90030}|PricingService.Api\\PricingService.Api.csproj|c:\\users\\admin\\source\\repos\\dotnetmicroservices\\pricingservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3463C417-B7BF-4E6F-B5BC-4352C4C90030}|PricingService.Api\\PricingService.Api.csproj|solutionrelative:pricingservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3463C417-B7BF-4E6F-B5BC-4352C4C90030}|PricingService.Api\\PricingService.Api.csproj|c:\\users\\admin\\source\\repos\\dotnetmicroservices\\pricingservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3463C417-B7BF-4E6F-B5BC-4352C4C90030}|PricingService.Api\\PricingService.Api.csproj|solutionrelative:pricingservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3463C417-B7BF-4E6F-B5BC-4352C4C90030}|PricingService.Api\\PricingService.Api.csproj|c:\\users\\admin\\source\\repos\\dotnetmicroservices\\pricingservice.api\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3463C417-B7BF-4E6F-B5BC-4352C4C90030}|PricingService.Api\\PricingService.Api.csproj|solutionrelative:pricingservice.api\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3463C417-B7BF-4E6F-B5BC-4352C4C90030}|PricingService.Api\\PricingService.Api.csproj|c:\\users\\admin\\source\\repos\\dotnetmicroservices\\pricingservice.api\\pricingservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3463C417-B7BF-4E6F-B5BC-4352C4C90030}|PricingService.Api\\PricingService.Api.csproj|solutionrelative:pricingservice.api\\pricingservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3463C417-B7BF-4E6F-B5BC-4352C4C90030}|PricingService.Api\\PricingService.Api.csproj|c:\\users\\admin\\source\\repos\\dotnetmicroservices\\pricingservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3463C417-B7BF-4E6F-B5BC-4352C4C90030}|PricingService.Api\\PricingService.Api.csproj|solutionrelative:pricingservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChatService.Api",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\ChatService.Api\\ChatService.Api.csproj",
-              "RelativeDocumentMoniker": "ChatService.Api\\ChatService.Api.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\ChatService.Api\\ChatService.Api.csproj",
-              "RelativeToolTip": "ChatService.Api\\ChatService.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\PricingService.Api\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "PricingService.Api\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\PricingService.Api\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "PricingService.Api\\Controllers\\PricingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T07:17:52.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\PricingService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PricingService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\PricingService.Api\\Program.cs",
+              "RelativeToolTip": "PricingService.Api\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T06:29:17.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PricingService.Api",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\PricingService.Api\\PricingService.Api.csproj",
+              "RelativeDocumentMoniker": "PricingService.Api\\PricingService.Api.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\PricingService.Api\\PricingService.Api.csproj",
+              "RelativeToolTip": "PricingService.Api\\PricingService.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-11T09:28:27.568Z",
+              "WhenOpened": "2026-10-18T06:23:56.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\PricingService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "PricingService.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\PricingService.Api\\appsettings.json",
+              "RelativeToolTip": "PricingService.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-18T06:22:21.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\PricingService.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "PricingService.Api\\Startup.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DotNetMicroservices\\PricingService.Api\\Startup.cs",
+              "RelativeToolTip": "PricingService.Api\\Startup.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T06:21:35.264Z",
               "EditorCaption": ""
             }
           ]

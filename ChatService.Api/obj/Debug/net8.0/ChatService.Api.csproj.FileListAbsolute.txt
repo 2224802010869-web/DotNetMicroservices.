@@ -2,3 +2,8 @@ C:\Users\Admin\source\repos\DotNetMicroservices\ChatService.Api\obj\Debug\net8.0
 C:\Users\Admin\source\repos\DotNetMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.AssemblyInfoInputs.cache
 C:\Users\Admin\source\repos\DotNetMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.AssemblyInfo.cs
 C:\Users\Admin\source\repos\DotNetMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DotNetMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DotNetMicroservices\ChatService.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Admin\source\repos\DotNetMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\DotNetMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\DotNetMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.sourcelink.json

@@ -6,3 +6,4 @@ C:\Users\Admin\source\repos\DotNetMicroservices\DocumentService\obj\Debug\net8.0
 C:\Users\Admin\source\repos\DotNetMicroservices\DocumentService\obj\Debug\net8.0\DocumentService.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\DotNetMicroservices\DocumentService\obj\Debug\net8.0\DocumentService.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Admin\source\repos\DotNetMicroservices\DocumentService\obj\Debug\net8.0\DocumentService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\DotNetMicroservices\DocumentService\obj\Debug\net8.0\DocumentService.sourcelink.json
